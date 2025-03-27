@@ -1,10 +1,10 @@
-Fake Store App
+                                      Fake Store App
 This project is a Fake Store App, built with React, that allows users to view, add, edit, and delete products. It utilizes the FakeStoreAPI to simulate an e-commerce platform where users can interact with product listings, manage items in their cart, and perform CRUD (Create, Read, Update, Delete) operations on products.
 
 
 
 
-Features
+                                        Features
 Product Listing: View a list of available products with their images, descriptions, and prices.
 
 Product Details: View detailed information about each product by clicking on the product title.
@@ -20,7 +20,7 @@ Responsive Design: The app is designed to be responsive and looks great on both 
 
 
 
-Technologies Used
+                                    Technologies Used
 React: A JavaScript library for building user interfaces.
 
 React Router: For routing and navigation within the app.
@@ -34,7 +34,7 @@ CSS: For custom styling and design adjustments.
 
 
 
-Components
+                                    Components
 HomePage: The landing page with a brief introduction and a button to view products.
 
 ProductListing: Displays a grid of all available products with brief information and links to product details.
@@ -54,7 +54,7 @@ Footer: A footer section with copyright information.
 
 
 
-Installation
+                            Installation
 To get started with this project:
 
 Clone this repository to your local machine.
@@ -80,7 +80,7 @@ The app will be running at http://localhost:3000 in your browser.
 
 
 
-Usage
+                              Usage
 On the HomePage, you can learn about the app and view the product listing.
 
 The ProductListing page shows all products with brief details. Click on a product to view more details.
@@ -94,7 +94,7 @@ EditForm allows you to update existing product details.
 
 
 
-API Used
+                            API Used
 The app makes use of the FakeStoreAPI for fetching product data and interacting with the store. All product data is fetched and displayed dynamically from the API.
 
 API Base URL: https://fakestoreapi.com/products
@@ -102,7 +102,7 @@ API Base URL: https://fakestoreapi.com/products
 
 
 
-Future Improvements
+                        Future Improvements
 Implement user authentication (login/logout) to make the app more personalized.
 
 Add a shopping cart functionality to track selected products.
