@@ -1,0 +1,61 @@
+:root{
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: lightslategray;
+}
+
+
+.custom-button{
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+  width: 50%;
+  margin: auto;
+  margin-bottom: 12px;
+  padding: 6px;
+  border-radius: 8px;
+}
+
+
+.container{
+  background-color: lightslategray;
+}
+
+
+.card-body{
+  background-color: rgb(140, 141, 141);
+}
+
+
+.home{
+  background-color: white;
+ 
+}
+
+h1 {
+  margin-bottom: 40px !important;
+  background-image: linear-gradient(315deg, #734ae8 0%, #89d4cf 74%);
+}
+.delete-button{
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+  width: 13%;
+  margin: auto;
+  margin-bottom: 12px;
+  padding: 6px;
+  border-radius: 8px;
+}
+
+.input{
+margin-right: 15px; 
+}
+.body{
+  background-color:  lightslategray;
+}
+
+.footer{
+  padding-top: 100px;  
+}
+
