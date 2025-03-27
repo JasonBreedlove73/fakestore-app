@@ -1,4 +1,4 @@
-  Fake Store App
+                                      Fake Store App
 This project is a Fake Store App, built with React, that allows users to view, add, edit, and delete products. It utilizes the FakeStoreAPI to simulate an e-commerce platform where users can interact with product listings, manage items in their cart, and perform CRUD (Create, Read, Update, Delete) operations on products.
 
 
