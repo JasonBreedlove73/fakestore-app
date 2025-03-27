@@ -102,7 +102,7 @@ API Base URL: https://fakestoreapi.com/products
 
 
 
-  #Future Improvements
+# Future Improvements
 Implement user authentication (login/logout) to make the app more personalized.
 
 Add a shopping cart functionality to track selected products.
