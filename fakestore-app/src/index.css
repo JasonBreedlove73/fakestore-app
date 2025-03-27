@@ -19,6 +19,7 @@
 
 
 .container{
+  margin-bottom: 40px;
   background-color: lightslategray;
 }
 
@@ -30,6 +31,7 @@
 
 .home{
   background-color: white;
+  margin-bottom: 502px;
  
 }
 
@@ -49,13 +51,27 @@ h1 {
 }
 
 .input{
+  margin-bottom: 585px;
 margin-right: 15px; 
 }
 .body{
   background-color:  lightslategray;
 }
 
-.footer{
-  padding-top: 100px;  
+.footer{  
+  background-color: #734ae8;
+background-image: linear-gradient(315deg, #734ae8 0%, #89d4cf 74%);
+}
+
+.edit-form{
+  margin-bottom: 57px;
+}
+
+.add-form{
+  margin-bottom: 117px;
+}
+
+.listing{
+  margin-bottom: 80px;
 }
 

@@ -81,7 +81,7 @@ const EditProduct = () => {
       {loading ? (
         <p>Loading...</p>
       ) : (
-        <Form onSubmit={handleSubmit}>
+        <Form onSubmit={handleSubmit} className="edit-form">
           <Form.Group controlId="productTitle">
             <Form.Label>Title</Form.Label>
             <Form.Control type="text" placeholder="Enter Title" name="title" value={product.title} onChange={handleChange} required />

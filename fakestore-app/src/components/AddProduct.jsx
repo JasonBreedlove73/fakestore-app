@@ -50,7 +50,7 @@ const AddProduct = () => {
             {submitted && <Alert variant="success" dismissible>{product.title} created successfully!</Alert>}
             {error && <Alert variant= "danger" dismissible>{error}</Alert>}
 
-            <Form onSubmit= {handleSubmit}>
+            <Form onSubmit= {handleSubmit} className="add-form">
             <Form.Group className="mb-3">
                     <Form.Label>Title</Form.Label>
                     <Form.Control type="text" placeholder="Enter a title" name="title" value={formData.title} onChange={handleChange} required />

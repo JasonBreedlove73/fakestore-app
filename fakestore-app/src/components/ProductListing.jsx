@@ -30,7 +30,7 @@ const ProductListing = () => {
     if(error) return <p>{error}</p>
 
     return (
-        <Container>
+        <Container className="listing">
             <h1>Products</h1>
             <Row>
                 {products.map((product) => (
