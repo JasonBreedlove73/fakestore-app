@@ -62,7 +62,7 @@ Clone this repository to your local machine.
 bash
 Copy
 Edit
-git clone https://github.com/JasonBreedlove73/fake-store-app.git
+git clone https://github.com/your-username/fake-store-app.git
 Install the required dependencies:
 
 bash
